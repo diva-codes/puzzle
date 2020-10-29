@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(54, 48, 48);
+    background: linear-gradient(170deg, rgba(54, 48, 48, 1) 0%, rgba(212, 157, 112, 0.7402311266303396) 43%, rgba(226, 214, 194, 0) 100%);
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+}
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    padding-left: 5%;
+    line-height: 10vh;
+    font-size: 3vw;
+    font-family: 'Parisienne', cursive;
+    color: #5b262c;
+    font-weight: 800;
+}
+
+#wonder {
+    width: 50%;
+}
